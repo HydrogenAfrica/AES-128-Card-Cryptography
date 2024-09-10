@@ -18,8 +18,7 @@ This example uses the built-in OpenSSL functions for encryption and decryption.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/encryption-example.git
-cd encryption-example
+git clone https://github.com/lawalyusuf/AES-128-encryption-decryption-in-php.git
 
 ```
 
