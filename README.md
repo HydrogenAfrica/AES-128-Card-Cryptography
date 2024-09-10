@@ -110,6 +110,7 @@ Decrypted Card Details: {"CardNumber":"4456530000001096","ExpiryMonth":"03","Exp
 
 ```
 
+
 - Non-Class-Based Encryption/Decryption(Alternatively)
 For users who prefer not to use classes, here is an alternative implementation without classes. This method provides the same AES-128-CBC encryption and decryption functionality.
 
